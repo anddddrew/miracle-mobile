@@ -51,11 +51,11 @@
 /* Begin PBXFileReference section */
 		0E37B1332080DC90F10C210C /* GridPreferencesKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = GridPreferencesKey.swift; sourceTree = "<group>"; };
 		1E189A9F6800A3B1330B7BBA /* StaggeredGridStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StaggeredGridStyle.swift; sourceTree = "<group>"; };
-		1FE188A0F5776E3948BBDABC /* InterRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = InterRegular.ttf; sourceTree = "<group>"; };
+		1FE188A0F5776E3948BBDABC /* InterRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = InterRegular.ttf; sourceTree = "<group>"; };
 		2C25380C18F7ABA099F23C65 /* Tracks.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Tracks.swift; sourceTree = "<group>"; };
-		2F6DC688C9CBE12AD336A2AE /* InterExtraBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = InterExtraBold.ttf; sourceTree = "<group>"; };
+		2F6DC688C9CBE12AD336A2AE /* InterExtraBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = InterExtraBold.ttf; sourceTree = "<group>"; };
 		31ABF057A9F2329CA4199546 /* Grid+Inits.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Grid+Inits.swift"; sourceTree = "<group>"; };
-		37180D9B77A3ACDBF739A812 /* InterBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = InterBold.ttf; sourceTree = "<group>"; };
+		37180D9B77A3ACDBF739A812 /* InterBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = InterBold.ttf; sourceTree = "<group>"; };
 		405E7799A6C23B81FB4CC349 /* CardCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CardCell.swift; sourceTree = "<group>"; };
 		4A06B4D81A1A16BD5EDD80C4 /* StringScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StringScheme.swift; sourceTree = "<group>"; };
 		4B4A121AFDC30FA7388FF922 /* ModularGridStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ModularGridStyle.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		8853052B2771949600B04E6F /* UINavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UINavigationController.swift; sourceTree = "<group>"; };
 		88680D1B2775C601002E964F /* ViewportHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewportHelper.swift; sourceTree = "<group>"; };
 		888CB47427686A000041116C /* APIExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIExtensions.swift; sourceTree = "<group>"; };
-		88ED74E4272FFE6E0088E3EF /* Andrewnijmehsapplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Andrewnijmehsapplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		88ED74E4272FFE6E0088E3EF /* miracle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = miracle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88ED74EB272FFE6F0088E3EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88ED74EE272FFE6F0088E3EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		88ED74F0272FFE6F0088E3EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 		88ED74F9272FFECA0088E3EF /* AppConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		88ED74FD272FFECA0088E3EF /* APIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		88ED74FF272FFECA0088E3EF /* AndrewnijmehsapplicationApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AndrewnijmehsapplicationApp.swift; sourceTree = "<group>"; };
-		9B07418DECE5947027D558F9 /* InterSemiBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = InterSemiBold.ttf; sourceTree = "<group>"; };
+		9B07418DECE5947027D558F9 /* InterSemiBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = InterSemiBold.ttf; sourceTree = "<group>"; };
 		9E357318732EBC147E2BDA28 /* GridItemBoundsPreferencesKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = GridItemBoundsPreferencesKey.swift; sourceTree = "<group>"; };
 		A142CF7D615259904D9CBAF5 /* GridItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = GridItem.swift; sourceTree = "<group>"; };
 		A19A86EED5AA039A89BE03AC /* EnvironmentValues+GridStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "EnvironmentValues+GridStyle.swift"; sourceTree = "<group>"; };
@@ -108,7 +108,6 @@
 			children = (
 				931C80EC07AC6795B442BA9F /* Fonts */,
 			);
-			name = Resources;
 			path = Resources;
 			sourceTree = "<group>";
 		};
@@ -120,7 +119,6 @@
 				A38A332B90B141A5DD5B8F79 /* Styles */,
 				68A5B01F25EA108A6E8BACCA /* Grid.swift */,
 			);
-			name = StaggeredGrid;
 			path = StaggeredGrid;
 			sourceTree = "<group>";
 		};
@@ -131,7 +129,6 @@
 				866584E9C8E4078168D2527B /* Cell */,
 				D48481E082D58F17EF76EE8E /* HomeScreenViewModel.swift */,
 			);
-			name = HomeScreenView;
 			path = HomeScreenView;
 			sourceTree = "<group>";
 		};
@@ -164,7 +161,6 @@
 				BB0D1935625D32B16795BE11 /* GridStyle.swift */,
 				0E37B1332080DC90F10C210C /* GridPreferencesKey.swift */,
 			);
-			name = Style;
 			path = Style;
 			sourceTree = "<group>";
 		};
@@ -173,7 +169,6 @@
 			children = (
 				405E7799A6C23B81FB4CC349 /* CardCell.swift */,
 			);
-			name = Cell;
 			path = Cell;
 			sourceTree = "<group>";
 		};
@@ -196,7 +191,7 @@
 		88ED74E5272FFE6E0088E3EF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				88ED74E4272FFE6E0088E3EF /* Andrewnijmehsapplication.app */,
+				88ED74E4272FFE6E0088E3EF /* miracle.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -284,7 +279,6 @@
 				2F6DC688C9CBE12AD336A2AE /* InterExtraBold.ttf */,
 				9B07418DECE5947027D558F9 /* InterSemiBold.ttf */,
 			);
-			name = Fonts;
 			path = Fonts;
 			sourceTree = "<group>";
 		};
@@ -294,7 +288,6 @@
 				2C25380C18F7ABA099F23C65 /* Tracks.swift */,
 				81A7848D1D250A9E4F6FC4CF /* LayoutMath.swift */,
 			);
-			name = Layout;
 			path = Layout;
 			sourceTree = "<group>";
 		};
@@ -306,7 +299,6 @@
 				A1CAEEF05C9F46A5D5F806DD /* Layout */,
 				7F55BCC8568A40A168C9E06B /* Style */,
 			);
-			name = Styles;
 			path = Styles;
 			sourceTree = "<group>";
 		};
@@ -315,7 +307,6 @@
 			children = (
 				498F1E0F420FF378CA49D8DC /* HomeScreenView */,
 			);
-			name = Views;
 			path = Views;
 			sourceTree = "<group>";
 		};
@@ -324,16 +315,15 @@
 			children = (
 				3DACCB0B37E7E83D496764BE /* StaggeredGrid */,
 			);
-			name = CustomViews;
 			path = CustomViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		88ED74E3272FFE6E0088E3EF /* Andrewnijmehsapplication */ = {
+		88ED74E3272FFE6E0088E3EF /* miracle */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 88ED74F3272FFE6F0088E3EF /* Build configuration list for PBXNativeTarget "Andrewnijmehsapplication" */;
+			buildConfigurationList = 88ED74F3272FFE6F0088E3EF /* Build configuration list for PBXNativeTarget "miracle" */;
 			buildPhases = (
 				88ED74E0272FFE6E0088E3EF /* Sources */,
 				88ED74E1272FFE6E0088E3EF /* Frameworks */,
@@ -343,9 +333,9 @@
 			);
 			dependencies = (
 			);
-			name = Andrewnijmehsapplication;
+			name = miracle;
 			productName = Andrewnijmehsapplication;
-			productReference = 88ED74E4272FFE6E0088E3EF /* Andrewnijmehsapplication.app */;
+			productReference = 88ED74E4272FFE6E0088E3EF /* miracle.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -362,7 +352,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 88ED74DF272FFE6E0088E3EF /* Build configuration list for PBXProject "Andrewnijmehsapplication" */;
+			buildConfigurationList = 88ED74DF272FFE6E0088E3EF /* Build configuration list for PBXProject "miracle" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -375,7 +365,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				88ED74E3272FFE6E0088E3EF /* Andrewnijmehsapplication */,
+				88ED74E3272FFE6E0088E3EF /* miracle */,
 			);
 		};
 /* End PBXProject section */
@@ -603,7 +593,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		88ED74DF272FFE6E0088E3EF /* Build configuration list for PBXProject "Andrewnijmehsapplication" */ = {
+		88ED74DF272FFE6E0088E3EF /* Build configuration list for PBXProject "miracle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88ED74F1272FFE6F0088E3EF /* Debug */,
@@ -612,7 +602,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88ED74F3272FFE6F0088E3EF /* Build configuration list for PBXNativeTarget "Andrewnijmehsapplication" */ = {
+		88ED74F3272FFE6F0088E3EF /* Build configuration list for PBXNativeTarget "miracle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88ED74F4272FFE6F0088E3EF /* Debug */,
